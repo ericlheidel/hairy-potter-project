@@ -2,7 +2,7 @@ let idNumber = 1
 
 export const makePottery = (potteryShape, potteryWeight, potteryHeight) => {
 
-    const id = idNumber++ -1
+    const id = idNumber++
 
     let potteryItem = {}
 
