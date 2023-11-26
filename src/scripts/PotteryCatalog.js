@@ -1,7 +1,4 @@
-import { makePottery } from "./PotteryWheel.js"
-import { firePottery } from "./Kiln.js"
-
-const potteryToBeSold = []
+export const potteryToBeSold = []
 
 export const toSellOrNotToSell = (potteryItem) => {
 
