@@ -61,5 +61,3 @@ console.log(usePottery())
 
 potteryList()
 // Invoke the component function that renders the HTML list
-
-
