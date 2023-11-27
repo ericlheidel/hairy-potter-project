@@ -1,7 +1,4 @@
-import { makePottery } from "./PotteryWheel.js"
-
 export const firePottery = (potteryItem, temperature) => {
-    makePottery()
 
     potteryItem.fired = true
     potteryItem.temp = temperature
